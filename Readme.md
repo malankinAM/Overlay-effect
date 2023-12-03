@@ -9,4 +9,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp 
 </div>
  
- <img src="./Group 1 (5).png" title="css"  width="400" height="1200"/>
+ <img src="./Group 1 (5).png" title="css"  width="400" height="800"/>
